@@ -33,7 +33,7 @@ departments = [
             {"first_name": "Daniel", "last_name": "Berger", "position": "Junior HR", "salary_rub": 50000},
             {"first_name": "Michelle", "last_name": "Frey", "position": "Middle HR", "salary_rub": 75000},
             {"first_name": "Kevin", "last_name": "Jimenez", "position": "Middle HR", "salary_rub": 70000},
-            {"first_name": "Nicole", "last_name": "Riley", "position": "HRD", "salary_rub": 120000},
+            {"first_name": "Nicole", "last_name": "Riley", "position": "HRD", "salary_rub": 120000}
         ]
     },
     {
@@ -52,3 +52,4 @@ taxes = [
     {"department": "IT Department", "name": "hiring", "value_percents": 6},
     {"department": "BizDev Department", "name": "sales", "value_percents": 20},
 ]
+
